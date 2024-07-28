@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.e89b8a15.css",
     "main.js": "/static/js/main.bbf9a453.js",
     "service-worker.js": "/service-worker.js",
@@ -10,5 +11,17 @@
   "entrypoints": [
     "static/css/main.e89b8a15.css",
     "static/js/main.bbf9a453.js"
+=======
+    "main.css": "/static/css/main.bb5eac8d.css",
+    "main.js": "/static/js/main.93c20359.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.bb5eac8d.css.map": "/static/css/main.bb5eac8d.css.map",
+    "main.93c20359.js.map": "/static/js/main.93c20359.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5eac8d.css",
+    "static/js/main.93c20359.js"
+>>>>>>> parent of 8845c3e (background)
   ]
 }
